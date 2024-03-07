@@ -26,6 +26,8 @@ const badaNumber = 1234567891234n
 const id = Symbol('123')
 const anotherId = Symbol('123')
 
+
+// Strict check ----> ishme datatype aur data dono check hoga.
 console.log(id === anotherId)
 
 
