@@ -1,4 +1,4 @@
-// On the basis of kis tarah se data ko memory me store kiya jata hai aur kaise access kiya jata hai ush basis pe data ka 2 categorisation hai
+// On the basis of kis tarah se data ko memory me store kiya jata hai aur kaise access kiya jata hai ush basis pe data ke 2 categorisation hai
 // Primitive (call by value)
 // Non -primitive/ Refrence type (call by refrence)
 
